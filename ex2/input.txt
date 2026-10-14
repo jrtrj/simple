@@ -1,0 +1,6 @@
+int main()
+{
+int intx = 5;
+float pi = 3.14;
+x = y + 1;
+END

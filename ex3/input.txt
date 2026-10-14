@@ -1,0 +1,2 @@
+The compiler reads a stream of characters.
+It groups them into tokens.

@@ -1,0 +1,14 @@
+Enter input string: 
+Stack      Input      Action
+i          +i*i       Shift
+E          +i*i       Reduce E->i
+E+         i*i        Shift
+E+i        *i         Shift
+E+E        *i         Reduce E->i
+E+E*       i          Shift
+E+E*i                 Shift
+E+E*E                 Reduce E->i
+E+E                   Reduce E->E*E
+E                     Reduce E->E+E
+
+Accepted

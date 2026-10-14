@@ -1,0 +1,5 @@
+Enter the text (Press Ctrl+D on Linux/Mac or Ctrl+Z on Windows to end):
+
+Number of lines      : 2
+Number of words      : 12
+Number of characters : 71
